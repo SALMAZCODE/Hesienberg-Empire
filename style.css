@@ -9,7 +9,7 @@ body{
 .navbar{
     display: flex;
     align-items: center;
-    padding: 20px;
+    padding: 200px;
     color: #000;
 }
 nav{
